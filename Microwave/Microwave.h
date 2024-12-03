@@ -13,3 +13,4 @@ private:
 int x;
 int y;
 }
+#endif // MICROWAVE_H
