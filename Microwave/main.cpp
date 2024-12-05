@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include "Microwave.h"
 using namespace std;
 int main(){
   Microwave m1;
