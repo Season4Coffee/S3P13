@@ -6,6 +6,7 @@ Microwave::Microwave(){
 }
 Microwave::sttime(int x){
   time=x;
+  vk=1;
   cout << "Время работы" << " " << time <<" минуты.\n";
   if(x==0){
     vk=0;
