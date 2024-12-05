@@ -6,11 +6,11 @@ using namespace std;
 class Microwave{
 public:
 Microwave();
-Microwave(x,y)
-int sttime();
-int sttemp();
+Microwave(time,power)
+int sttime(x);
+int sttemp(y);
 private:
-int x;
-int y;
+int time;
+int power;
 }
 #endif // MICROWAVE_H
