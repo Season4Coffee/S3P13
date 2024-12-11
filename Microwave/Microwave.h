@@ -13,5 +13,5 @@ private:
 int time;
 int power;
 int vk;
-}
+};
 #endif // MICROWAVE_H
